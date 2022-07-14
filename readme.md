@@ -1,12 +1,12 @@
 # Mini project 955-911
 
 ## Data Acquisition Method
-| Method | Work |  Not work |
-| ------ | ------- | ----- |
-| Scraping from internal html By R | No | Yes |
-| Selenium By Python | No | Yes |
-| Read HAR file | Yes | No |
-| Download By Browser Extension | Yes | No |
+| Method | Work |
+| ------ | ------- |
+| Scraping from internal html By R | No |
+| Selenium By Python | No |
+| Read HAR file | Yes |
+| Download By Browser Extension | Yes |
 
 ## Data
 - [Data Collection](https://github.com/fluke34261/mini-project-955-911/tree/main/Data%20Collection)
