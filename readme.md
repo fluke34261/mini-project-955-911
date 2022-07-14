@@ -11,6 +11,9 @@
 ## Data
 - [Data Collection](https://github.com/fluke34261/mini-project-955-911/tree/main/Data%20Collection)
 
+### Example Data
+
+![AX](Data%20Collection/MIP-PROSTATE-01-0001/AX/07edc523-05af-4aa5-8630-81b74d3a18d6.jpg)
 
 ## Reference 
 - [Data resource](https://nbia.cancerimagingarchive.net/nbia-search/)
