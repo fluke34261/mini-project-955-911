@@ -3,14 +3,13 @@
 ## Data Acquisition Method
 | Method | Work |
 | ------ | ------- |
-| Scraping from internal html By R | No |
-| Selenium By Python | No |
-| Read HAR file | Yes |
+| [Scraping from internal html By R](scraping_internal_file) | No |
+| [Selenium By Python](selenium) | No |
+| [Read HAR file](read_har) | Yes |
 | Download By Browser Extension | Yes |
 
 ## Data
 - [Data Collection](https://github.com/fluke34261/mini-project-955-911/tree/main/Data%20Collection)
-
 
 
 ## Reference 
