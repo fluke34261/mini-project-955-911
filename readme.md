@@ -7,3 +7,7 @@ Summary Method
 | Selenium By Python | - | / |
 | Read HAR file | / | - |
 | Download By Browser Extension | / | - |
+
+
+Data
+- [Data](https://github.com/fluke34261/mini-project-955-911/tree/main/Data%20Collection)
