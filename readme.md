@@ -1,6 +1,6 @@
 # Mini project 955-911
 
-Summary
+Summary Method
 | Method | Success |  Fail |
 | ------ | ------- | ----- |
 | Scraping from internal html By R | - | / |
