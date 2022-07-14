@@ -1,7 +1,7 @@
 # Mini project 955-911
 
 ## Data Acquisition Method
-| Method | Success |  Fail |
+| Method | Work |  Not work |
 | ------ | ------- | ----- |
 | Scraping from internal html By R | No | Yes |
 | Selenium By Python | No | Yes |
